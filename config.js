@@ -11,18 +11,18 @@ global.apikey = 'APOLOZEA' // https://api.lolhuman.xyz
 global.rosekey = 'cba86fac49e37d63f9bd4561' // https://api.itsrose.site
 
 //—————「 Set Nama Bot & Own 」—————//
-global.namabot = 'Adrian-MD'
-global.namaowner = 'AdrianTzy'
+global.namabot = 'ZERO-TWO-MD'
+global.namaowner = 'Smith'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6289513081052'
-global.nomerowner = ["6289513081052"]
-global.premium = ['6289513081052']
+global.owner = '13804446922'
+global.nomerowner = ["6285942073615"]
+global.premium = ['6285942073615']
 
 //—————「 Set Wm 」—————//
-global.packname = 'Adrian-MD'
+global.packname = 'ZERO-TWO-MD'
 global.author = 'V1.2'
-global.isLink = 'https://chat.whatsapp.com/DRCrPjaOXcZ9tXbx2raQ10'
+global.isLink = 'https://chat.whatsapp.com/CUDUFwZTiNt0jb8TFzTOnj'
 global.prefa = ['', '.']
 global.sp = '•'
 
@@ -47,7 +47,7 @@ global.limitawal = {
 }
 
 //—————「 Set Image 」—————//
-global.imageurl = 'https://telegra.ph/file/54bdfdfaeadbda3984b82.jpg'
+global.imageurl = 'https://telegra.ph/file/c691e08af491a7ed60ae5.jpg'
 global.thumb = fs.readFileSync('./media/thumb.jpg')
 
 //—————「 Batas Akhir 」—————//
